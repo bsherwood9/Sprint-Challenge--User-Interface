@@ -34,10 +34,10 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-I would describe it as giving html meaning. This means that we try to structure our html in such as way as to give who ever reads it an easy map of the page. We want our tags to tell us what the function is.
+I would describe it as giving html meaning. This means that we try to structure our html in such as way as to give who ever reads it an easy map of the page. We want our tags to make our html easier to read not only for humans but for robots. It makes it more organized and easier to work with.
 
 2. Name two big differences between `display: block;` and `display: inline;`.
-   Display block put everything on its own line, and display inline can't use height or width.
+   Display block put everything on its own line, and display inline can't use height or width. Display inline also nests elements.
 
 3. What are the 4 areas of the box model?
    Margin, padding, content, border
